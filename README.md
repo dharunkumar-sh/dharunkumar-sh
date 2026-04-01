@@ -30,7 +30,3 @@
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar-sh&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dharunkumar-sh/Pwnagetty) &nbsp; 
-
-&nbsp;
