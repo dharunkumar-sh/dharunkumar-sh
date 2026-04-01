@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.dharunkumar.me](https://www.dharunkumar.me)**
 
-- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1WTB3OI4DQzbLq14yUSTdkHrM-29XvehC/view?usp=sharing)**
+- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1W-3C39NEI829xX9YB6KGfAuAdBHyxPEr/view?usp=sharing)**
 
 ### 🔝 Top Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=tokyonight" alt="dharunkumarsh" /></p>
@@ -30,3 +30,7 @@
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar-sh&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dharunkumar-sh/Pwnagetty) &nbsp; 
+
+&nbsp;
