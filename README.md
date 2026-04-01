@@ -22,15 +22,11 @@
 
 - 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1WTB3OI4DQzbLq14yUSTdkHrM-29XvehC/view?usp=sharing)**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharunkumar-sh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Top Contributions
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=tokyonight" alt="dharunkumarsh" /></p>
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,flask,nodejs,mysql,mongodb,supabase" />
 
 ### IDE and Tools I Use
 <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase"/>
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
