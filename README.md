@@ -9,15 +9,15 @@ A Passionate Frontend Developer from India
   
 <img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🌱 I'm currently learning **Next.js and TypeScript.**
+- 🌱 I'm currently learning **TanStack**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **UI/UX Design Ethics**
+- 🤝 I'm looking for help with **UI/UX Design Ethics and Web Development Ideas**
 
-- 💬 Ask me about **React.js, Tailwind CSS and JavaScript.**
+- 💬 Ask me about **React.js, Next.js, Tailwind CSS and JavaScript.**
 
-- 📫 How to reach me **iam.dharunkumarsh@gmail.com**
+- 📫 How to reach me **dharunkumar.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am creative.**
 
