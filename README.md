@@ -5,11 +5,11 @@
 A Passionate Frontend Developer from India
 </h1>
 
-- 🔭 I'm currently working on **unique ideas**
+- 🔭 I'm currently working on **SkillBridge**
   
 <img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🌱 I'm currently learning **TanStack**
+- 🌱 I'm currently learning **TanStack and Google Cloud Platform**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
