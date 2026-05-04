@@ -5,7 +5,7 @@
 A Passionate Frontend Developer from India
 </h1>
 
-- 🔭 I'm currently working on **a E-Commerce Website**
+- 🔭 I'm currently working on **unique ideas**
   
 <img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -23,7 +23,7 @@ A Passionate Frontend Developer from India
 
 - 👨‍💻 All of my projects are available at **[https://www.dharunkumar.me](https://www.dharunkumar.me)**
 
-- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1W-3C39NEI829xX9YB6KGfAuAdBHyxPEr/view?usp=sharing)**
+- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1QiEwnvEjUnRPj7J7p7BQkY4SFFIyHBho/view?usp=sharing)**
 
 ### 🔝 Top Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=tokyonight" alt="dharunkumarsh" /></p>
