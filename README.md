@@ -26,13 +26,16 @@ A Passionate Frontend Developer from India
 - 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1QiEwnvEjUnRPj7J7p7BQkY4SFFIyHBho/view?usp=sharing)**
 
 ### 🔝 Top Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=tokyonight" alt="dharunkumarsh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=radical" alt="dharunkumarsh" /></p>
 
 ### 📊 GitHub Insights
-  <p><img src="https://github-readme-stats-salesp07.vercel.app/api?username=dharunkumar-sh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
+  <p><img src="https://github-readme-stats-salesp07.vercel.app/api?username=dharunkumar-sh&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" /></p>
+
+  <p><img src="https://awesome-github-stats.azurewebsites.net/user-stats/dharunkumar-sh?cardType=level&theme=radical&fontFamily=&preferLogin=false" /></p>
+
   
 ### 🧠 Most Used Languages
-<p><img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dharunkumar-sh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </p>
+<p><img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dharunkumar-sh&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </p>
 
 ### 💻 I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,flask,nodejs,mysql,mongodb,supabase" />
