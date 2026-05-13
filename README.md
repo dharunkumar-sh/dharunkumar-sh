@@ -23,7 +23,7 @@ A Passionate Frontend Developer from India
 
 - 👨‍💻 All of my projects are available at **[https://www.dharunkumar.me](https://www.dharunkumar.me)**
 
-- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1QiEwnvEjUnRPj7J7p7BQkY4SFFIyHBho/view?usp=sharing)**
+- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1K0hCvwJDd6gMbgG1pxWMwn3vdbzbyJNp/view?usp=sharing)**
 
 ### 🔝 Top Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&&theme=radical" alt="dharunkumarsh" /></p>
