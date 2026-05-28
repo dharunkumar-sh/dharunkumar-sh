@@ -23,6 +23,49 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 - 🔍 Interested in technical SEO, web performance optimization, and enhancing overall user experience
 - 🚀 Focused on developing fast, accessible, and visually engaging applications with clean and maintainable code
 
+---
+
+## ⚒️ Technical Expertise
+
+### 🚀 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,mysql" />
+</p>
+
+---
+
+### ⚛️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,materialui,html,css,nodejs,fastapi,flask" />
+</p>
+
+---
+
+### 🧠 State Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+---
+
+### 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,firebase,strapi" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,linux,git,github" />
+</p>
+
+
 ## 🔝 Top Contributions
 
 <p>
