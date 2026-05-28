@@ -14,32 +14,14 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 
 ---
 
-<img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## 🚀 Developer Overview
 
-- 🔭 I'm currently working on **SkillBridge**
-
-- 🌱 I'm currently learning **TanStack and Google Cloud Platform**
-
-- 👯 I'm looking to collaborate on **Open Source Projects**
-
-- 🤝 I'm looking for help with **UI/UX Design Ethics and Web Development Ideas**
-
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS and JavaScript**
-
-- 📫 How to reach me **dharunkumar.dev@gmail.com**
-
-- ⚡ Fun fact: **I think I am creative 😄**
-
-- 👨‍💻 All of my projects are available at  
-  **[dharunkumar.me](https://www.dharunkumar.me)**
-
-- 📄 Know about my experiences  
-  **[Dharun's Resume](https://drive.google.com/file/d/1K0hCvwJDd6gMbgG1pxWMwn3vdbzbyJNp/view?usp=sharing)**
-
-<br/>
-<br/>
-
----
+- 🎓 Third Year Information Technology Student at MSEC
+- ⚡ Focused on Backend Engineering, Cloud Computing & Scalable Architectures
+- 🧠 Passionate about building AI-integrated web applications and real-time systems
+- ☁️ Exploring AWS cloud services, distributed systems, and modern backend infrastructures
+- 💬 Interested in APIs, Authentication Systems, WebSockets & Database Design
+- 🔥 Building scalable applications with strong backend functionality and clean UI/UX
 
 ## 🔝 Top Contributions
 
