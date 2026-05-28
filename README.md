@@ -62,22 +62,41 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,linux" />
+</p>
+
+---
+
+### 🧠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge&logo=ghostery&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=apacherocketmq&logoColor=black" />
+<img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge&logo=windsurf&logoColor=white" />
+<img src="https://img.shields.io/badge/Qoder-22C55E?style=for-the-badge&logo=greensock&logoColor=black" />
+
+
 </p>
 
 
-## 🔝 Top Contributions
+# 🔝 Top Contributions
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+# 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=dharunkumar-sh&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<p align="center">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharunkumar-sh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
@@ -93,24 +112,6 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 </p>
 
 ---
-
-## 💻 I Code In
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,flask,nodejs,mysql,mongodb,supabase" />
-</p>
-
----
-
-## 🛠️ IDEs & Tools I Use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,vite,git,github,gcp,netlify,vercel,firebase" />
-</p>
-
----
-
-<div align="center">
 
 ## 👀 Profile Views
 
