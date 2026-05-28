@@ -85,38 +85,68 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 </p>
 
 
-# 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-sh&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharunkumar-sh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dharunkumar-sh?cardType=level&theme=radical&preferLogin=false" />
+  <img src="https://streak-stats.demolab.com?user=dharunkumar-sh&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+# 📈 Contribution Activity
 
-<p>
+<div align="center">
+
+[![Dharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharunkumar-sh&theme=radical&hide_border=true&radius=16)](https://github.com/dharunkumar-sh)
+
+</div>
+
+---
+
+# 🏆 GitHub Level & Contribution Stats
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dharunkumar-sh?cardType=level&theme=radical&preferLogin=false" />
+</div>
+
+---
+
+# 🧠 Most Used Languages
+
+<div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dharunkumar-sh&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dharunkumar-sh/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:dharunkumar.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 👀 Profile Views
 
+<div align="center">
+    
 <img src="https://komarev.com/ghpvc/?username=dharunkumar-sh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
+
+<div align="center">
+
+### ⚡ “Turning ideas into seamless digital experiences through modern frontend engineering.”
+
+</div>
