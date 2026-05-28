@@ -17,11 +17,11 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusi
 ## 🚀 Developer Overview
 
 - 🎓 Final Year Information Technology student at MSEC
-- 💻 Aspiring Software Developer with a strong interest in backend engineering, scalable systems, and cloud technologies
-- 🧠 Passionate about developing AI-integrated web applications and real-time software solutions
-- ☁️ Currently exploring AWS cloud services, distributed systems, and modern backend infrastructures
-- 🔐 Interested in APIs, authentication systems, WebSockets, database design, and secure application architecture
-- ⚡ Focused on building scalable, efficient, and user-friendly applications with clean code and intuitive UI/UX
+- 💻 Aspiring Software Developer with a strong interest in frontend engineering, SEO optimization, and user-centric web experiences
+- 🎨 Passionate about creating clean, interactive, and user-centric web experiences with intuitive UI/UX
+- ⚛️ Skilled in building responsive and scalable frontend applications using Next.js, TypeScript and Tailwind CSS.
+- 🔍 Interested in technical SEO, web performance optimization, and enhancing overall user experience
+- 🚀 Focused on developing fast, accessible, and visually engaging applications with clean and maintainable code
 
 ## 🔝 Top Contributions
 
