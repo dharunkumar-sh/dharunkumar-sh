@@ -8,7 +8,7 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | React.js, Nex
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&center=true&width=800&lines=Aspiring+Software+Developer;Frontend+Development;Building+Creative+and+Responsive+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&width=800&lines=Aspiring+Software+Developer;Turning+Ideas+Into+Digital+Products;Passionate+About+Modern+Web+Technologies;Creating+Impactful+User+Experiences" />
 
 </div>
 
