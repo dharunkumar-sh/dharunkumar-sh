@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Aspiring Software Developer | Meta-Certified Front-End Developer | UI/UX Enthusiast
+Aspiring Software Developer | Meta-Certified Front-End Developer | React.js, Next.js, CI/CD & GCP
 </h3>
 
 <div align="center">
