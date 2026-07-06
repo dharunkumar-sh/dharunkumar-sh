@@ -103,6 +103,24 @@ Aspiring Software Developer | Meta-Certified Front-End Developer | React.js, Nex
 
 ---
 
+# 🐍 Snake Contribution Game
+
+<p align="center">
+  <a href="https://github.com/dharunkumar-sh">
+    <img
+      src="https://github.com/dharunkumar-sh/dharunkumar-sh/blob/output/github-snake-dark.svg"
+      alt="Snake animation"
+      width="1200"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Watch the snake eat my GitHub contribution graph! 🐍</i>
+</p>
+
+---
+
 # 🏆 GitHub Level & Contribution Stats
 
 <div align="center">
