@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Aspiring Software Developer | Meta-Certified Front-End Developer | React.js, Next.js, CI/CD & GCP
+Founder, CTO @ DANK Technologies | Aspiring Software Developer | Meta-Certified Front-End Developer
 </h3>
 
 <div align="center">
