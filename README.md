@@ -5,15 +5,10 @@
 <h3>Aspiring Software Developer · Final Year @ MSEC · Full Stack</h3>
 
 
-<h3 align="center">
-Founder, CTO @ DANK Technologies | Aspiring Software Developer | Meta-Certified Front-End Developer
-</h3>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&width=800&lines=Aspiring+Software+Developer;Turning+Ideas+Into+Digital+Products;Passionate+About+Modern+Web+Technologies;Creating+Impactful+User+Experiences" />
 
 </div>
+
 
 ---
 
