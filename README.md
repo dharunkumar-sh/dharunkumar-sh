@@ -113,10 +113,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Watch the snake eat my GitHub contribution graph! 🐍</i>
-</p>
-
 ---
 
 # 🏆 GitHub Level & Contribution Stats
