@@ -1,6 +1,9 @@
-<h1 align="center">
-    Dharun Kumar S H
-</h1>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
+    
+<h1>Hi, I'm Gowtham Rajendran 👋</h1>
+<h3>Senior Software Engineer · Cloud · System Design</h3>
+
 
 <h3 align="center">
 Founder, CTO @ DANK Technologies | Aspiring Software Developer | Meta-Certified Front-End Developer
