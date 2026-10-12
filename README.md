@@ -91,16 +91,6 @@
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Dharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharunkumar-sh&theme=radical&hide_border=true&radius=16)](https://github.com/dharunkumar-sh)
-
-</div>
-
----
-
 # 🐍 Snake Contribution Game
 
 <p align="center">
